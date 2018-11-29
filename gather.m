@@ -1,3 +1,4 @@
+%% Ting-Yang (Gordon) Chen, University of Washington, Mechanical Engineering
 %% Leader-follower Multi-Agent System, V shape Formation Control + Obstacle Advoidance using APF and RPF
 
 % Since RPF is nonlinear function, and the graph is unbalanced, the control
